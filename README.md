@@ -1,2 +1,2 @@
 # Java-codes
-My Java codes during learning java.
+JavaCodes and notes as comments.//
