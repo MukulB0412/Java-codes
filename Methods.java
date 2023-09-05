@@ -16,7 +16,7 @@ public class Methods {
     public static void main(String[] args) {
         String name = "mukul";
         // System.out.println(name);
-        /*
+
         int value = name.length();
         System.out.println(value);
 
@@ -30,7 +30,7 @@ public class Methods {
         System.out.println(nonTrimmerString);
 
         String trimmedString = nonTrimmerString.trim();
-        System.out.println(trimmedString); */
+        System.out.println(trimmedString);
 
         System.out.println(name.substring(3));
         System.out.println(name.substring(1,4));
